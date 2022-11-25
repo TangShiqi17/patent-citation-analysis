@@ -1,7 +1,6 @@
 # patent-citation-analysis
 read_data.py  
-
-normal_bert.py 
+normal_bert.py   
 normal_train.py 
 predict.py 
 These codes are to classify different knowledge categories.
