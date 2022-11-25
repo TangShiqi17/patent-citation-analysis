@@ -1,5 +1,5 @@
 # patent-citation-analysis
-read_data.py 
+read_data.py \n
 normal_bert.py 
 normal_train.py 
 predict.py 
